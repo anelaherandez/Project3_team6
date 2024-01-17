@@ -1,0 +1,36 @@
+HDI rank,Country,Human Development Index (HDI Value) ,Life expectancy at birth (years),Expected years of schooling (years),Mean years of schooling (years),Gross national income (GNI) per capita (2017 PPP $),GNI per capita rank minus HDI rank,Continent,Hemisphere,Human Development Groups,UNDP Developing Regions,Gender Inequality Index Average (1990-1999),Gender Inequality Index Average (2000-2010),Gender Inequality Index Average (2011-2021),"Maternal Mortality Ratio (deaths per 100,000 live births) Average (1990-1999)","Maternal Mortality Ratio (deaths per 100,000 live births) Average (2000-2010)","Maternal Mortality Ratio (deaths per 100,000 live births) Average (2011-2021)"
+5,Australia,0.951,84.5,21.1,12.7,"49,238",18,Oceania,Southern Hemisphere,Very High,,0.17049999999999998,0.14350000000000002,0.10200000000000001,7.5,6.0,6.0
+13,New Zealand,0.937,82.5,20.3,12.9,"44,057",16,Oceania,Southern Hemisphere,Very High,,0.22,0.1805,0.124,15.0,11.5,9.5
+42,Chile,0.855,78.9,16.7,10.9,"24,563",14,America,Southern Hemisphere,Very High,LAC,0.476,0.384,0.257,49.0,25.5,15.5
+47,Argentina,0.842,75.4,17.9,11.1,"20,925",17,America,Southern Hemisphere,Very High,LAC,0.4285,0.38849999999999996,0.3245,77.0,58.5,43.5
+58,Uruguay,0.809,75.4,16.8,9.0,"21,269",5,America,Southern Hemisphere,Very High,LAC,0.406,0.351,0.2825,31.5,21.5,17.0
+63,Mauritius,0.802,73.6,15.2,10.4,"22,025",-1,Africa,Southern Hemisphere,Very High,SSA,0.4925,0.436,0.359,74.0,62.5,57.5
+72,Seychelles,0.785,71.3,13.9,10.3,"25,831",-17,Africa,Southern Hemisphere,High,SSA,,,,55.0,54.0,54.0
+84,Peru,0.762,72.4,15.4,9.9,"12,246",13,America,Southern Hemisphere,High,LAC,0.5469999999999999,0.47050000000000003,0.40800000000000003,201.5,124.0,95.0
+87,Brazil,0.754,72.8,15.6,8.1,"14,370",-5,America,Southern Hemisphere,High,LAC,0.534,0.47850000000000004,0.4185,95.0,67.0,60.5
+91,Tonga,0.745,71.0,16.0,11.4,"6,822",34,Oceania,Southern Hemisphere,High,EAP,0.6885,0.655,0.5295,87.0,67.0,54.0
+95,Ecuador,0.74,73.7,14.6,8.8,"10,312",11,America,Southern Hemisphere,High,LAC,0.556,0.4685,0.39649999999999996,161.0,100.0,67.5
+99,Fiji,0.73,67.1,14.7,10.9,"9,980",9,Oceania,Southern Hemisphere,High,EAP,0.471,0.4065,0.35650000000000004,63.0,45.0,36.0
+105,Paraguay,0.717,70.3,13.0,8.9,"12,349",-10,America,Southern Hemisphere,High,LAC,0.5800000000000001,0.5225,0.46399999999999997,190.0,136.5,93.5
+109,South Africa,0.713,62.3,13.6,11.4,"12,948",-17,Africa,Southern Hemisphere,High,SSA,0.485,0.4495,0.42300000000000004,162.0,165.5,140.0
+111,Samoa,0.707,72.8,12.4,11.4,"5,308",24,Oceania,Southern Hemisphere,High,EAP,,,0.4485,117.5,73.0,48.5
+112,Gabon,0.706,65.8,13.0,9.4,"13,367",-25,Africa,Southern Hemisphere,High,SSA,0.6385000000000001,0.6005,0.5575,408.5,347.0,278.0
+114,Indonesia,0.705,67.6,13.7,8.6,"11,466",-11,Asia,Southern Hemisphere,High,EAP,0.577,0.5345,0.47,319.5,250.0,199.0
+117,Botswana,0.693,61.1,12.3,10.3,"16,198",-43,Africa,Southern Hemisphere,Medium,SSA,0.5720000000000001,0.514,0.48750000000000004,251.5,220.5,160.0
+130,Tuvalu,0.641,64.5,9.4,10.6,"6,351",-2,Oceania,Southern Hemisphere,Medium,EAP,,,,,,
+139,Namibia,0.615,59.3,11.9,7.2,"8,634",-23,Africa,Southern Hemisphere,Medium,SSA,0.55,0.5205,0.471,327.5,307.0,225.5
+140,Timor-Leste,0.607,67.7,12.6,5.4,"4,461",7,Asia,Southern Hemisphere,Medium,EAP,,0.453,0.40800000000000003,1076.0,482.0,170.0
+140,Vanuatu,0.607,70.4,11.5,7.1,"3,085",23,Oceania,Southern Hemisphere,Medium,EAP,,,,190.5,116.0,80.0
+146,Zimbabwe,0.593,59.3,12.1,8.7,"3,810",9,Africa,Southern Hemisphere,Medium,SSA,0.6034999999999999,0.6085,0.5595,486.5,588.5,507.5
+148,Angola,0.586,61.6,12.2,5.4,"5,466",-14,Africa,Southern Hemisphere,Medium,SSA,0.7015,0.611,0.5405,1029.5,576.5,270.5
+153,Congo,0.571,63.5,12.3,6.2,"2,889",11,Africa,Southern Hemisphere,Medium,SSA,0.624,0.6174999999999999,0.586,713.0,622.5,433.0
+154,Zambia,0.565,61.2,10.9,7.2,"3,218",7,Africa,Southern Hemisphere,Medium,SSA,0.657,0.617,0.565,599.5,416.5,248.0
+155,Solomon Islands,0.564,70.3,10.3,5.7,"2,482",13,Oceania,Southern Hemisphere,Medium,EAP,,,,329.5,193.0,119.0
+156,Comoros,0.558,63.4,11.9,5.1,"3,142",6,Africa,Southern Hemisphere,Medium,SSA,,,,522.0,392.5,299.5
+156,Papua New Guinea,0.558,65.4,10.4,4.7,"4,009",-4,Oceania,Southern Hemisphere,Medium,EAP,0.6625000000000001,0.6545000000000001,0.6885,299.0,208.5,155.5
+165,Rwanda,0.534,66.1,11.2,4.4,"2,210",6,Africa,Southern Hemisphere,Low,SSA,0.599,0.5065,0.41500000000000004,1225.0,766.5,298.5
+168,Lesotho,0.514,53.1,12.0,6.0,"2,700",-2,Africa,Southern Hemisphere,Low,SSA,0.5854999999999999,0.5715,0.557,600.0,604.0,564.5
+169,Malawi,0.512,62.9,12.7,4.5,"1,466",13,Africa,Southern Hemisphere,Low,SSA,0.7025,0.639,0.5715,867.5,596.5,388.5
+173,Madagascar,0.501,64.5,10.1,5.1,"1,484",8,Africa,Southern Hemisphere,Low,SSA,0.637,0.62,0.577,660.5,506.0,383.5
+185,Mozambique,0.446,59.3,10.2,3.2,"1,198",2,Africa,Southern Hemisphere,Low,SSA,0.6185,0.5800000000000001,0.55,1129.5,605.0,339.0
+187,Burundi,0.426,61.7,10.7,3.1,732,4,Africa,Southern Hemisphere,Low,SSA,0.655,0.5780000000000001,0.521,1160.0,837.5,591.5
