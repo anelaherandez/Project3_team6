@@ -1,0 +1,143 @@
+HDI rank,Country,Human Development Index (HDI Value) ,Life expectancy at birth (years),Expected years of schooling (years),Mean years of schooling (years),Gross national income (GNI) per capita (2017 PPP $),GNI per capita rank minus HDI rank,Continent,Hemisphere,Human Development Groups,UNDP Developing Regions,Gender Inequality Index Average (1990-1999),Gender Inequality Index Average (2000-2010),Gender Inequality Index Average (2011-2021),"Maternal Mortality Ratio (deaths per 100,000 live births) Average (1990-1999)","Maternal Mortality Ratio (deaths per 100,000 live births) Average (2000-2010)","Maternal Mortality Ratio (deaths per 100,000 live births) Average (2011-2021)"
+1,Switzerland,0.962,84.0,16.5,13.9,"66,933",5,Europe,Northern Hemisphere,Very High,,0.11599999999999999,0.08,0.036,8.0,6.5,5.5
+2,Norway,0.961,83.2,18.2,13.0,"64,660",6,Europe,Northern Hemisphere,Very High,,0.116,0.086,0.039,6.5,5.0,3.0
+3,Iceland,0.959,82.7,19.2,13.8,"55,782",11,Europe,Northern Hemisphere,Very High,,0.16599999999999998,0.11699999999999999,0.0655,7.0,5.5,4.5
+6,Denmark,0.948,81.4,18.7,13.0,"60,365",6,Europe,Northern Hemisphere,Very High,,0.08349999999999999,0.062,0.028499999999999998,9.5,6.5,4.5
+7,Sweden,0.947,83.0,19.4,12.6,"54,489",9,Europe,Northern Hemisphere,Very High,,0.08,0.055999999999999994,0.0375,6.5,4.5,4.5
+8,Ireland,0.945,82.0,18.9,11.6,"76,169",-3,Europe,Northern Hemisphere,Very High,,0.2075,0.1825,0.10700000000000001,6.5,6.5,6.0
+9,Germany,0.942,80.6,17.0,14.1,"54,534",6,Europe,Northern Hemisphere,Very High,,0.155,0.1145,0.08149999999999999,8.5,6.5,6.5
+10,Netherlands,0.941,81.7,18.7,12.6,"55,979",3,Europe,Northern Hemisphere,Very High,,0.107,0.076,0.036500000000000005,11.5,10.0,6.0
+11,Finland,0.94,82.0,19.1,12.9,"49,452",11,Europe,Northern Hemisphere,Very High,,0.095,0.07700000000000001,0.0485,5.5,5.0,3.5
+12,Singapore,0.939,82.8,16.5,11.9,"90,919",-10,Asia,Northern Hemisphere,Very High,EAP,0.2565,0.17450000000000002,0.063,12.5,11.5,9.0
+13,Belgium,0.937,81.9,19.6,12.4,"52,293",7,Europe,Northern Hemisphere,Very High,,0.1545,0.113,0.069,8.0,7.0,5.5
+15,Canada,0.936,82.7,16.4,13.8,"46,808",9,America,Northern Hemisphere,Very High,,0.175,0.14150000000000001,0.096,8.0,10.0,10.5
+16,Liechtenstein,0.935,83.3,15.2,12.5,"146,830",-15,Europe,Northern Hemisphere,Very High,,,,,,,
+17,Luxembourg,0.93,82.6,14.4,13.0,"84,649",-13,Europe,Northern Hemisphere,Very High,,0.1875,0.1395,0.0665,11.0,9.0,6.5
+18,United Kingdom,0.929,80.7,17.3,13.4,"45,225",9,Europe,Northern Hemisphere,Very High,,0.2455,0.1945,0.1335,9.5,10.0,8.0
+19,Japan,0.925,84.8,15.2,13.4,"42,274",12,Asia,Northern Hemisphere,Very High,,0.1585,0.1305,0.098,11.0,7.5,5.5
+21,United States,0.921,77.2,16.3,13.7,"64,765",-14,America,Northern Hemisphere,Very High,,0.2855,0.2615,0.21,11.5,13.5,17.0
+22,Israel,0.919,82.3,16.1,13.3,"41,524",10,Asia,Northern Hemisphere,Very High,,0.23500000000000001,0.16899999999999998,0.11050000000000001,9.5,5.5,3.5
+23,Malta,0.918,83.8,16.8,12.2,"38,884",12,Europe,Northern Hemisphere,Very High,,0.3015,0.2815,0.21350000000000002,10.5,8.5,6.5
+23,Slovenia,0.918,80.7,17.7,12.8,"39,746",10,Europe,Northern Hemisphere,Very High,,0.2395,0.1585,0.0745,12.0,10.0,7.5
+25,Austria,0.916,81.6,16.0,12.3,"53,619",-8,Europe,Northern Hemisphere,Very High,,0.1745,0.13,0.078,7.0,5.5,5.0
+26,United Arab Emirates,0.911,78.7,15.7,12.7,"62,574",-15,Asia,Northern Hemisphere,Very High,AS,0.632,0.39,0.11499999999999999,10.0,5.0,3.5
+27,Spain,0.905,83.0,17.9,10.6,"38,354",10,Europe,Northern Hemisphere,Very High,,0.16999999999999998,0.11699999999999999,0.076,5.5,4.5,4.0
+28,France,0.903,82.5,15.8,11.6,"45,937",-2,Europe,Northern Hemisphere,Very High,,0.21000000000000002,0.162,0.10450000000000001,11.5,9.5,8.5
+29,Cyprus,0.896,81.2,15.6,12.4,"38,188",9,Asia,Northern Hemisphere,Very High,,0.308,0.1845,0.13,12.5,11.0,7.0
+30,Italy,0.895,82.9,16.2,10.7,"42,840",0,Europe,Northern Hemisphere,Very High,,0.199,0.1545,0.0875,5.5,3.0,2.0
+31,Estonia,0.89,77.1,15.9,13.5,"38,048",8,Europe,Northern Hemisphere,Very High,,0.336,0.22250000000000003,0.1395,35.5,20.0,11.0
+32,Czechia,0.889,77.7,16.2,12.9,"38,745",4,Europe,Northern Hemisphere,Very High,,0.239,0.1575,0.129,10.0,5.5,3.5
+33,Greece,0.887,80.1,20.0,11.4,"29,002",17,Europe,Northern Hemisphere,Very High,,0.26849999999999996,0.1785,0.1295,4.5,3.0,3.0
+34,Poland,0.876,76.5,16.0,13.2,"33,034",8,Europe,Northern Hemisphere,Very High,,0.23450000000000001,0.1825,0.1305,12.0,5.0,2.5
+35,Bahrain,0.875,78.8,16.3,11.0,"39,497",-1,Asia,Northern Hemisphere,Very High,AS,,0.252,0.20400000000000001,20.5,22.5,14.5
+35,Lithuania,0.875,73.7,16.3,13.5,"37,931",5,Europe,Northern Hemisphere,Very High,,0.2815,0.20600000000000002,0.129,23.0,13.5,9.0
+35,Saudi Arabia,0.875,76.9,16.1,11.3,"46,112",-10,Asia,Northern Hemisphere,Very High,AS,,0.651,0.445,32.5,21.5,17.5
+38,Portugal,0.866,81.0,16.9,9.6,"33,155",3,Europe,Northern Hemisphere,Very High,,0.223,0.161,0.0935,11.5,9.5,8.5
+39,Latvia,0.863,73.6,16.2,13.3,"32,803",4,Europe,Northern Hemisphere,Very High,,0.3495,0.253,0.189,43.5,30.0,22.5
+40,Andorra,0.858,80.4,13.3,10.6,"51,167",-19,Europe,Northern Hemisphere,Very High,,,,,,,
+40,Croatia,0.858,77.6,15.1,12.2,"30,132",8,Europe,Northern Hemisphere,Very High,,0.27849999999999997,0.1635,0.113,10.5,10.0,8.5
+42,Qatar,0.855,79.3,12.6,10.0,"87,134",-39,Asia,Northern Hemisphere,Very High,AS,,0.541,0.38,15.5,12.0,9.5
+44,San Marino,0.853,80.9,12.3,10.8,"52,654",-25,Europe,Northern Hemisphere,Very High,,,,,,,
+45,Slovakia,0.848,74.9,14.5,12.9,"30,690",1,Europe,Northern Hemisphere,Very High,,0.253,0.20900000000000002,0.19,10.0,7.0,5.5
+46,Hungary,0.846,74.5,15.0,12.2,"32,789",-2,Europe,Northern Hemisphere,Very High,,0.318,0.26549999999999996,0.23149999999999998,20.0,14.5,12.5
+49,Montenegro,0.832,76.3,15.1,12.2,"20,839",16,Europe,Northern Hemisphere,Very High,ECA,,0.207,0.154,12.0,9.5,6.5
+50,Kuwait,0.831,78.7,15.3,7.3,"52,920",-32,Asia,Northern Hemisphere,Very High,AS,0.5774999999999999,0.3925,0.2605,10.5,10.0,11.0
+52,Russian Federation,0.822,69.4,15.8,12.8,"27,166",-1,Europe,Northern Hemisphere,Very High,,0.41900000000000004,0.355,0.252,60.0,40.5,20.0
+53,Romania,0.821,74.2,14.2,11.3,"30,027",-4,Europe,Northern Hemisphere,Very High,,0.48,0.396,0.3115,94.5,40.5,21.5
+54,Oman,0.816,72.5,14.6,11.7,"27,054",-2,Asia,Northern Hemisphere,Very High,AS,,0.335,0.314,23.0,19.0,18.5
+55,Bahamas,0.812,71.6,12.9,12.6,"30,486",-8,America,Northern Hemisphere,Very High,LAC,0.3945,0.376,0.34550000000000003,71.0,76.5,74.0
+56,Kazakhstan,0.811,69.4,15.8,12.3,"23,943",1,Asia,Northern Hemisphere,Very High,ECA,0.4065,0.3275,0.21500000000000002,69.0,41.5,14.5
+57,Trinidad and Tobago,0.81,73.0,14.5,11.6,"23,392",1,America,Northern Hemisphere,Very High,LAC,0.4285,0.3835,0.3565,93.0,76.0,69.5
+58,Costa Rica,0.809,77.0,16.5,8.8,"19,974",8,America,Northern Hemisphere,Very High,LAC,0.45499999999999996,0.38,0.29100000000000004,44.5,36.0,28.5
+60,Belarus,0.808,72.4,15.2,12.1,"18,849",8,Europe,Northern Hemisphere,Very High,ECA,,0.151,0.1275,29.0,13.5,3.5
+61,Panama,0.805,76.2,13.1,10.5,"26,957",-8,America,Northern Hemisphere,Very High,LAC,0.5265,0.5105,0.4495,99.0,85.0,64.0
+62,Malaysia,0.803,74.9,13.3,10.6,"26,658",-8,Asia,Northern Hemisphere,Very High,EAP,0.344,0.2845,0.256,43.5,34.0,29.5
+63,Georgia,0.802,71.7,15.6,12.8,"14,664",17,Asia,Northern Hemisphere,Very High,ECA,,0.40149999999999997,0.34550000000000003,32.5,31.5,28.5
+63,Serbia,0.802,74.2,14.4,11.4,"19,123",4,Europe,Northern Hemisphere,Very High,ECA,,0.194,0.1615,13.5,12.5,12.0
+66,Thailand,0.8,78.7,15.9,8.7,"17,030",6,Asia,Northern Hemisphere,Very High,EAP,0.4295,0.392,0.351,40.0,42.5,39.0
+67,Albania,0.796,76.5,14.4,11.3,"14,131",17,Europe,Northern Hemisphere,High,ECA,0.33,0.2825,0.198,32.5,22.0,18.5
+68,Bulgaria,0.795,71.8,13.9,11.4,"23,079",-8,Europe,Northern Hemisphere,High,,0.348,0.281,0.22349999999999998,22.5,15.5,11.0
+68,Grenada,0.795,74.9,18.7,9.0,"13,484",18,America,Northern Hemisphere,High,LAC,,,,49.0,33.5,26.5
+70,Barbados,0.79,77.6,15.7,9.9,"12,306",26,America,Northern Hemisphere,High,LAC,0.38649999999999995,0.3405,0.29200000000000004,64.5,43.0,31.0
+71,Antigua and Barbuda,0.788,78.5,14.2,9.3,"16,792",2,America,Northern Hemisphere,High,LAC,,,,51.5,44.0,42.5
+73,Sri Lanka,0.782,76.4,14.1,10.8,"12,578",21,Asia,Northern Hemisphere,High,SA,0.46399999999999997,0.439,0.395,68.0,47.0,37.0
+74,Bosnia and Herzegovina,0.78,75.3,13.8,10.5,"15,242",4,Europe,Northern Hemisphere,High,ECA,,0.222,0.162,22.5,14.0,10.0
+75,Saint Kitts and Nevis,0.777,71.7,15.4,8.7,"23,358",-16,America,Northern Hemisphere,High,LAC,,,,,,
+77,Ukraine,0.773,71.6,15.0,11.1,"13,256",11,Europe,Northern Hemisphere,High,ECA,0.4195,0.34099999999999997,0.259,41.0,30.0,21.0
+78,North Macedonia,0.77,73.8,13.6,10.2,"15,918",-3,Europe,Northern Hemisphere,High,ECA,0.3785,0.252,0.15000000000000002,15.0,10.5,7.5
+79,China,0.768,78.2,14.2,7.6,"17,504",-8,Asia,Northern Hemisphere,High,EAP,0.275,0.264,0.2185,78.5,47.5,31.5
+80,Dominican Republic,0.767,72.6,14.5,9.3,"17,990",-11,America,Northern Hemisphere,High,LAC,0.5455,0.4975,0.45799999999999996,124.5,88.0,95.0
+80,Palau,0.767,66.0,15.8,12.5,"13,819",5,Oceania,Northern Hemisphere,High,EAP,,,,,,
+83,Cuba,0.764,73.7,14.4,12.5,"7,879",37,America,Northern Hemisphere,High,LAC,0.4085,0.351,0.316,55.5,43.5,37.0
+85,Armenia,0.759,72.0,13.1,11.3,"13,158",4,Asia,Northern Hemisphere,High,ECA,0.46599999999999997,0.39949999999999997,0.279,47.5,37.5,28.0
+86,Mexico,0.758,70.2,14.9,9.2,"17,896",-16,America,Northern Hemisphere,High,LAC,0.482,0.434,0.35550000000000004,61.5,50.5,38.0
+88,Colombia,0.752,72.8,14.4,8.9,"14,384",-7,America,Northern Hemisphere,High,LAC,0.514,0.48050000000000004,0.4435,108.5,89.5,83.5
+89,Saint Vincent and the Grenadines,0.751,69.6,14.7,10.8,"11,961",11,America,Northern Hemisphere,High,LAC,,,0.39,81.5,71.5,66.0
+90,Maldives,0.747,79.9,12.6,7.3,"15,448",-14,Asia,Northern Hemisphere,High,SA,0.6194999999999999,0.4525,0.3705,358.5,96.0,57.5
+91,Azerbaijan,0.745,69.4,13.5,10.5,"14,257",-8,Asia,Northern Hemisphere,High,ECA,0.351,0.346,0.3165,43.0,39.0,28.0
+91,Algeria,0.745,76.4,14.6,8.1,"10,800",13,Africa,Northern Hemisphere,High,AS,0.6555,0.5585,0.5075000000000001,198.5,138.0,114.0
+91,Turkmenistan,0.745,69.3,13.2,11.3,"13,021",-1,Asia,Northern Hemisphere,High,ECA,0.3,0.235,0.1945,50.5,19.5,8.5
+96,Mongolia,0.739,71.0,15.0,9.4,"10,588",9,Asia,Northern Hemisphere,High,EAP,0.478,0.425,0.364,184.5,110.5,52.0
+97,Egypt,0.731,70.2,13.8,9.6,"11,732",4,Africa,Northern Hemisphere,High,AS,0.646,0.587,0.498,99.0,54.5,39.5
+97,Tunisia,0.731,73.8,15.4,7.4,"10,258",10,Africa,Northern Hemisphere,High,AS,0.48000000000000004,0.34199999999999997,0.27449999999999997,102.5,56.0,44.5
+99,Suriname,0.73,70.3,13.0,9.8,"12,672",-6,America,Northern Hemisphere,High,LAC,,0.517,0.4625,212.0,184.5,129.5
+101,Uzbekistan,0.727,70.9,12.5,11.9,"7,917",18,Asia,Northern Hemisphere,High,ECA,,0.3145,0.259,46.5,36.0,30.5
+102,Dominica,0.72,72.8,13.3,8.1,"11,488",0,America,Northern Hemisphere,High,LAC,,,,,,
+102,Jordan,0.72,74.3,10.6,10.4,"9,924",8,Asia,Northern Hemisphere,High,AS,0.6345000000000001,0.5375,0.475,84.5,61.5,49.0
+104,Libya,0.718,71.9,12.9,7.6,"15,336",-27,Africa,Northern Hemisphere,High,AS,,0.28,0.274,84.5,61.5,64.0
+106,Saint Lucia,0.715,71.1,12.9,8.5,"12,048",-7,America,Northern Hemisphere,High,LAC,0.4595,0.4145,0.3835,81.5,97.5,116.5
+106,"Palestine, State of",0.715,73.5,13.4,9.9,"6,583",21,Asia,Northern Hemisphere,High,AS,,,,91.0,57.5,34.5
+108,Guyana,0.714,65.7,12.5,8.6,"22,465",-47,America,Northern Hemisphere,High,LAC,0.564,0.5285,0.472,219.0,205.0,174.5
+110,Jamaica,0.709,70.5,13.4,9.2,"8,834",4,America,Northern Hemisphere,High,LAC,0.4555,0.4255,0.372,79.0,78.0,79.5
+112,Lebanon,0.706,75.0,11.3,8.7,"9,526",-1,Asia,Northern Hemisphere,High,AS,,0.445,0.442,39.0,25.5,27.0
+115,Viet Nam,0.703,73.6,13.0,8.4,"7,867",6,Asia,Northern Hemisphere,High,EAP,0.372,0.3215,0.308,93.5,57.5,45.0
+116,Philippines,0.699,69.3,13.1,9.0,"8,920",-3,Asia,Northern Hemisphere,Medium,EAP,0.505,0.481,0.438,178.0,152.0,131.0
+118,Kyrgyzstan,0.692,70.0,13.2,11.4,"4,566",26,Asia,Northern Hemisphere,Medium,ECA,0.482,0.4145,0.3795,76.5,79.0,69.5
+121,Iraq,0.686,70.4,12.1,7.9,"9,977",-12,Asia,Northern Hemisphere,Medium,AS,0.6945,0.614,0.565,122.5,74.5,73.0
+122,Tajikistan,0.685,71.6,11.7,11.3,"4,548",23,Asia,Northern Hemisphere,Medium,ECA,0.5295000000000001,0.38,0.314,67.5,38.0,19.5
+123,Belize,0.683,70.5,13.0,8.8,"6,309",6,America,Northern Hemisphere,Medium,LAC,0.5305,0.483,0.4085,83.0,71.5,44.0
+123,Morocco,0.683,74.0,14.2,5.9,"7,303",1,Africa,Northern Hemisphere,Medium,AS,0.7235,0.613,0.45899999999999996,253.0,140.0,78.0
+125,El Salvador,0.675,70.7,12.7,7.2,"8,296",-8,America,Northern Hemisphere,Medium,LAC,0.5215000000000001,0.47650000000000003,0.4,94.5,63.5,49.5
+126,Nicaragua,0.667,73.8,12.6,7.1,"5,625",6,America,Northern Hemisphere,Medium,LAC,0.617,0.5445,0.441,206.0,137.0,104.0
+127,Bhutan,0.666,71.8,13.2,5.2,"9,438",-15,Asia,Northern Hemisphere,Medium,SA,,0.526,0.46399999999999997,618.0,335.0,211.0
+128,Cabo Verde,0.662,74.1,12.6,6.3,"6,230",2,Africa,Northern Hemisphere,Medium,SSA,,,0.349,226.5,94.0,62.5
+129,Bangladesh,0.661,72.4,12.4,7.4,"5,472",4,Asia,Northern Hemisphere,Medium,SA,0.7104999999999999,0.6479999999999999,0.562,520.0,346.0,210.5
+131,Marshall Islands,0.639,65.3,10.2,10.9,"4,620",12,Oceania,Northern Hemisphere,Medium,EAP,,,,,,
+132,India,0.633,67.2,11.9,6.7,"6,590",-6,Asia,Northern Hemisphere,Medium,SA,0.69,0.623,0.5329999999999999,493.5,290.0,165.0
+133,Ghana,0.632,63.8,12.0,8.3,"5,745",-2,Africa,Northern Hemisphere,Medium,SSA,0.627,0.5885,0.5505,600.5,411.5,323.5
+135,Guatemala,0.627,69.2,10.6,5.7,"8,723",-20,America,Northern Hemisphere,Medium,LAC,0.592,0.5665,0.511,195.0,145.0,108.5
+136,Kiribati,0.624,67.4,11.8,8.0,"4,063",14,Oceania,Northern Hemisphere,Medium,EAP,,,,177.5,124.0,101.0
+137,Honduras,0.621,70.1,10.1,7.1,"5,298",-1,America,Northern Hemisphere,Medium,LAC,0.536,0.5015000000000001,0.4485,124.0,79.5,68.5
+138,Sao Tome and Principe,0.618,67.6,13.4,6.2,"4,021",13,Africa,Northern Hemisphere,Medium,SSA,0.6174999999999999,0.5745,0.5195000000000001,225.0,159.5,133.5
+143,Nepal,0.602,68.4,12.9,5.1,"3,877",10,Asia,Northern Hemisphere,Medium,SA,0.7015,0.5905,0.482,782.0,429.0,235.5
+145,Equatorial Guinea,0.596,60.6,9.7,5.9,"12,074",-47,Africa,Northern Hemisphere,Medium,SSA,,,,796.5,381.0,304.5
+146,Cambodia,0.593,69.6,11.5,5.1,"4,079",3,Asia,Northern Hemisphere,Medium,EAP,0.6535,0.556,0.484,699.0,368.0,196.0
+149,Myanmar,0.585,65.7,10.9,6.4,"3,851",5,Asia,Northern Hemisphere,Medium,EAP,,0.555,0.5349999999999999,391.0,302.5,254.5
+150,Syrian Arab Republic,0.577,72.1,9.2,5.1,"4,192",-2,Asia,Northern Hemisphere,Medium,AS,0.5165,0.485,0.484,34.0,26.5,29.5
+151,Cameroon,0.576,60.3,13.1,6.2,"3,621",6,Africa,Northern Hemisphere,Medium,SSA,0.7,0.6599999999999999,0.595,851.5,741.5,559.0
+152,Kenya,0.575,61.4,10.7,6.7,"4,474",-6,Africa,Northern Hemisphere,Medium,SSA,0.704,0.6425,0.5469999999999999,720.5,570.0,370.0
+158,Mauritania,0.556,64.4,9.4,4.9,"5,075",-20,Africa,Northern Hemisphere,Medium,SSA,0.782,0.7005,0.643,822.0,829.0,794.0
+161,Pakistan,0.544,66.1,8.7,4.5,"4,624",-19,Asia,Northern Hemisphere,Low,SA,0.79,0.673,0.5555,358.0,238.5,160.0
+162,Togo,0.539,61.6,13.0,5.0,"2,167",12,Africa,Northern Hemisphere,Low,SSA,0.732,0.6435,0.604,509.0,464.5,409.0
+163,Haiti,0.535,63.2,9.7,5.6,"2,848",2,America,Northern Hemisphere,Low,LAC,,0.625,0.6325000000000001,572.5,471.5,488.0
+163,Nigeria,0.535,52.7,10.1,7.2,"4,790",-22,Africa,Northern Hemisphere,Low,SSA,,0.672,0.678,1220.0,1089.0,944.5
+166,Benin,0.525,59.8,10.8,4.3,"3,409",-7,Africa,Northern Hemisphere,Low,SSA,0.6855,0.646,0.614,548.5,492.0,427.5
+166,Uganda,0.525,62.7,10.1,5.7,"2,181",6,Africa,Northern Hemisphere,Low,SSA,0.653,0.6005,0.542,668.5,504.0,397.0
+170,Senegal,0.511,67.1,9.0,2.9,"3,344",-10,Africa,Northern Hemisphere,Low,SSA,0.6695,0.6225,0.5549999999999999,569.5,500.0,369.0
+171,Djibouti,0.509,62.3,7.4,4.1,"5,025",-32,Africa,Northern Hemisphere,Low,AS,,,,564.5,395.0,260.0
+172,Sudan,0.508,65.3,7.9,3.8,"3,575",-14,Africa,Northern Hemisphere,Low,AS,0.728,0.659,0.5785,792.5,537.5,342.5
+174,Gambia,0.5,62.1,9.4,4.6,"2,172",-1,Africa,Northern Hemisphere,Low,SSA,0.767,0.706,0.6335,972.5,796.5,626.5
+175,Ethiopia,0.498,65.0,9.7,3.2,"2,361",-5,Africa,Northern Hemisphere,Low,SSA,,0.596,0.556,1155.0,813.5,479.5
+176,Eritrea,0.492,66.5,8.1,4.9,"1,729",3,Africa,Northern Hemisphere,Low,SSA,,,,1550.0,923.5,519.0
+177,Guinea-Bissau,0.483,59.7,10.6,3.6,"1,908",0,Africa,Northern Hemisphere,Low,SSA,,0.661,0.643,1335.0,994.5,714.5
+178,Liberia,0.481,60.7,10.4,5.1,"1,289",7,Africa,Northern Hemisphere,Low,SSA,,0.671,0.657,1055.0,801.0,677.5
+180,Afghanistan,0.478,62.0,10.3,3.0,"1,824",-2,Asia,Northern Hemisphere,Low,SA,,0.753,0.712,1485.0,1202.0,771.5
+181,Sierra Leone,0.477,60.1,9.6,4.6,"1,622",-1,Africa,Northern Hemisphere,Low,SSA,0.691,0.6745,0.6445000000000001,2760.0,1920.0,1195.0
+182,Guinea,0.465,58.9,9.8,2.2,"2,481",-13,Africa,Northern Hemisphere,Low,SSA,0.698,0.6775,0.636,885.0,883.5,662.0
+183,Yemen,0.455,63.8,9.1,3.2,"1,314",1,Asia,Northern Hemisphere,Low,AS,0.807,0.8015000000000001,0.8095,377.5,246.5,175.5
+184,Burkina Faso,0.449,59.3,9.1,2.1,"2,118",-8,Africa,Northern Hemisphere,Low,SSA,0.68,0.646,0.617,616.5,450.5,348.5
+186,Mali,0.428,58.9,7.4,2.3,"2,133",-11,Africa,Northern Hemisphere,Low,SSA,0.673,0.668,0.6425000000000001,898.5,748.0,612.5
+188,Central African Republic,0.404,53.9,8.0,4.3,966,1,Africa,Northern Hemisphere,Low,SSA,0.731,0.7055,0.6799999999999999,1265.0,1140.0,905.0
+189,Niger,0.4,61.6,7.0,2.1,"1,240",-3,Africa,Northern Hemisphere,Low,SSA,0.7945,0.743,0.6425000000000001,851.0,738.0,574.0
+190,Chad,0.394,52.5,8.0,2.6,"1,364",-7,Africa,Northern Hemisphere,Low,SSA,,0.747,0.681,1360.0,1330.0,1175.0
+191,South Sudan,0.385,55.0,5.5,5.7,768,-1,Africa,Northern Hemisphere,Low,SSA,,,0.597,1880.0,1415.0,1110.0
