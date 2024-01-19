@@ -15,6 +15,11 @@ Postgres SQL
 
 
 
+
+
+![Alt text](fig.2.png)
+
+
 # Dataset References:
 Maternal Mortality: https://www.kaggle.com/datasets/iamsouravbanerjee/maternal-mortality-dataset
 Gender Inequality: https://www.kaggle.com/datasets/iamsouravbanerjee/gender-inequality-index-dataset
