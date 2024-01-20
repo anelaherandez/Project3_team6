@@ -14,7 +14,7 @@ By creating a database of country's HDI rank and average maternal mortality and 
             a. Did this change from the 90’s to the 2000’s?
 
 
-![Alt text](hdiRoadMap-2.png)
+![hdiRoadMap](https://github.com/anelaherandez/Project3_team6/assets/144189200/d15a699f-448c-49e8-8952-696701418c68)
 
 ## ETL
 This project combined datasets on maternal mortality, gender inequality, as well as a HDI ranking (2021) spreadsheet,
