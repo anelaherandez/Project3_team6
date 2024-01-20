@@ -32,18 +32,17 @@ The transformation of the datasets focused on taking the yearly maternal mortali
 We then created new tables of HDI rank and Human Development Groups data with each decade average for both maternal mortality and gender inequality.
 These tables were also transformed to look at the difference between the Northern and Southern Hemisphere and the different Human Development Groups (Low, Medium, High, Very High). This tranformation showed that Southern Hemisphere countries primarily rank lower than Northern Hemisphere countries, however there has been significant improvement in mortality and gender inequality values in the last 30 years. 
 
-![Alt text](fig1a.png)
+![fig1a](https://github.com/anelaherandez/Project3_team6/assets/144189200/d774619b-2678-48a6-8fd4-8a0f01dbbd95)
 
-![Alt text](output.png)
+![output](https://github.com/anelaherandez/Project3_team6/assets/144189200/436407cc-ec66-4539-a069-c71c0584a5b8)
 
 3) Load:
 Four main tables from our transformed data were loaded into a Postgres SQL database for further exploration. Although it is out of the scope for this project, in this SQL database further exploration of other HDI attributes can be explored such as average years of schooling or gross nation income in relation to maternal mortality and gender inequality. 
 An ERD diagram was created using DBD website. 
 
-![Alt text](ERD_Diagram_use.png)
+![ERD_Diagram_use](https://github.com/anelaherandez/Project3_team6/assets/144189200/62ef5495-7543-484b-aa9a-cba66d45a04e)
 
-
-4) Conclusions:
+## Conclusions:
 The main takeaway from this ETL project was learning how useful the polars dataframe library can be for an ETL project. The library is efficient, fast, and easy to learn. It is very comparable to Pandas and has an ease to its coding that makes it painless for dataset transformation. 
 The creation of the SQL database did present a few roadblocks with respect to creating primary and foreign keys. The HDI ranking system did have duplicate ranking positions so it could not be used as a one to one relationship, but using the country attribute fixed the problem. Also making sure the naming of columns was more precise without any spacing created issues. These issues showed the importance of concise data transformation for any project. 
 
